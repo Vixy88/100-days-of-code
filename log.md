@@ -17,7 +17,7 @@ function takeANumber(current, newName) {
   return temp;
 }
 
-//1) I declared the function and passed one parameter into it. 2) I delcared let temp as an empty string. 3) I used if as when the line is empty or undefined it would return the message. 4) I used else to accept the current line of people 5) then shift to remove the person who is currently being served.6) used return to show the string + the name of the person currently being served.//
+//1) I declared the function and passed one parameter into it. 2) I delcared let temp as an empty string. 3) I used if as when the line is empty or undefined it would return the message. 4) I used else to accept the current line of people 5) then shift to remove the person who is currently being served.6) used return to show the string + the name of the person currently being served.
 
 function nowServing(katzsDeliLine) {
   let temp = "";
@@ -31,10 +31,21 @@ function nowServing(katzsDeliLine) {
   }
 }
 
-//1) I declared the function and passed the current parameter into it. 2) I then created the let list as an empty string 3)
-
 function currentLine(current) {
-  let list= "";
-  
+  let list= "The line is currently: ";
+  if(current[0]===undefined){
+    return "The line is currently empty."
+  }
+  else {
+    for(let i=0;i<current.length;i++){
+      let num = i+1;
+      if(i===0){
+        list = list + num +". " + current[i];
+      }
+      else{
+        list = list + ", " + num + ". " + current[i];
+      }
+  }
+  return list;
 }
-
+}
