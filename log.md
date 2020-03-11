@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 10, 2020 (Example 1)
+### Day 1: March 10, 2020 (HTML + JS)
 
-**Today's Progress**: Worked on the Deli Lab on Learn.co, had to build a function currentLine that accepts the current line of people and returns the current line as a string
+**Today's Progress**: Worked on the Deli Lab on Learn.co, had to build a function currentLine that accepts the current line of people and returns the current line as a string. Also started working on a new website, just did the beginning and inputted a picture and a form with two input fields.
 
 **Thoughts:** It is really difficult for me to understand the blank canvas, when i see the finished solution it is easy for me to explain what was used and why, but actually coming up with the solution is a real struggle for me still.
 
@@ -49,3 +49,11 @@ function currentLine(current) {
   return list;
 }
 }
+
+### Day 2: March 11, 2020 (Example 1)
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Code Snippet:** 
