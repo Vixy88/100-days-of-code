@@ -83,3 +83,95 @@ Learned today that my CSS text is twice as long as my HTML everytime .. Thinking
         </div>     
     </body>
 </html>
+
+### Day 3: March 12, 2020 (Little bit of HTML + Lots of CSS Challenges)
+
+**Today's Progress**: 
+Working on setting up the homepage for my site today, going to work on the header and footer in HTML first and then style it with an external CSS sheet.
+
+**Thoughts:** 
+Today I had a full on silent(mostly silent !%#@£!) war with CSS. Was trying to create a central search button(worked) and then a simple header with a few menu button which was top right central.(50% working)
+
+**Code Snippet (CSS):** 
+body {
+    margin: 0;
+    padding:0;
+    background-image: url(http://wannagosurfing.com/wp-content/uploads/2015/11/awesome-surf-surfing-widescreen-high-definition-wallpaper-for-desktop-background-images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+@media only screen and (max-width:767px) {
+    body{
+        background-image: url(https://mcdn.wallpapersafari.com/medium/66/85/qbZQFL.jpg);
+    }
+ }
+
+
+#homeBanner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    width: 25rem;
+    
+}
+
+form {
+    position: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 4px;
+    width: 400px;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid #AAA;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.pageHeader {
+    background: #659DBD;
+    display: block;
+    height: 120px;
+    min-width: 120px;
+    color: #fff;
+    text-shadow: #000 0 0 .2em;
+}
+
+.headerButton {
+    margin: 1%;
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 2px;
+    width: 90px;
+    height: 20px;
+    border: none;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    transition: 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+    background-color: #659DBD;
+    color: white
+        
+}
+
+.menuButton {
+    text-align: right;
+    height: 120px;
+    min-width: 120px;
+    position: block;    
+}
