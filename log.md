@@ -50,7 +50,7 @@ function currentLine(current) {
 }
 }
 
-### Day 2: March 11, 2020 (Example 1)
+### Day 2: March 11, 2020 (HTML + CSS)
 
 **Today's Progress**: 
 Continuing to work on my login page today using HTML and CSS with a lot of help from 
