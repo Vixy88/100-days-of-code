@@ -53,7 +53,33 @@ function currentLine(current) {
 ### Day 2: March 11, 2020 (Example 1)
 
 **Today's Progress**: 
+Continuing to work on my login page today using HTML and CSS with a lot of help from 
+@wwwschools. Added my first mediaquery, which was really cool when it finally worked.
 
 **Thoughts:** 
+Learned today that my CSS text is twice as long as my HTML everytime .. Thinking faceEnjoyed playing around with different styles and adding img, links and onclick to the pages.Rocket
 
 **Code Snippet:** 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sign Up Page</title>
+        <link rel="stylesheet" type="text/css" href="regstyle.css">
+    </head>
+    
+    <body>
+        <div id="login-box">
+            <div class="center">
+                <h1>Sign Up</h1>
+                
+                <input type="text" name="username" placeholder="Username" />
+                <input type="text" name="email" placeholder="E-mail" />
+                <input type="password" name="password" placeholder="Password" />
+                <input type="password" name="password2" placeholder="Retype Password">
+                
+                <input type="submit" name="signup_submit" value="Sign me up" />
+                <h4><a href='#'>Return to Login Screen</a></h4>
+            </div>
+        </div>     
+    </body>
+</html>
