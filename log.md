@@ -175,3 +175,45 @@ input {
     min-width: 120px;
     position: block;    
 }
+
+### Day 4: March 13, 2020 (Little bit of HTML + Lots of CSS Challenges)
+
+**Today's Progress**: 
+Today I "finished" the header on my homepage, spent most of the time reviewing my CSS and re classing my DIV elements, but it finally worked with just a simple (padding-top). Hooray!
+
+**Thoughts:** 
+That Git is much harder than first anticipated, struggling getting my Brackets files synced with git.
+
+### Day 5: March 14, 2020 (HTML Course on Freecodecamp)
+
+**Today's Progress**: 
+Finished the Basic HTML and HTML 5 part of the @freeCodeCamp, enjoyed doing a course that is centered around the ide. Got a slight understanding of how data is passed on as well.
+
+**Thoughts:** 
+Starting to have a more structured understanding of HTML and how to apply the structures.
+
+### Day 6: March 15, 2020 (CSS course on Freecodecamp)
+
+**Today's Progress**: 
+I Did 2 x 30 minutes today on @freeCodeCamp working on the CSS modules around padding and margin, which makes a lot more sense now.
+
+**Thoughts:** 
+Getting better at understanding CSS and where to use it.
+
+### Day 7: March 17, 2020 (CSS Course + HTML and CSS writing)
+
+**Today's Progress**: 
+I had a very productive day, completing the CSS basic module and applying it to my homepage with a nice video and better styled search bar!
+
+**Thoughts:** 
+I make things overcomplicated and when I try and troubleshoot items I should try and break it down from the beginning.
+
+### Day 8: March 18, 2020 (CSS Applied Visual Course + HTML and CSS clean up)
+
+**Today's Progress**: 
+I have been working through the applied visual course with @freecodecamp. I worked on my homepage file and removed the header and relating css from it as I think it needs to be simplified and I want to use a navbar tag instead.
+
+**Thoughts:** 
+i deleted 20% of my CSS without it actually changing much of the layout so i should try and write simpler code.
+
+
