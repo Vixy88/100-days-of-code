@@ -216,4 +216,12 @@ I have been working through the applied visual course with @freecodecamp. I work
 **Thoughts:** 
 i deleted 20% of my CSS without it actually changing much of the layout so i should try and write simpler code.
 
+### Day 9-10: March 19-20, 2020 (HTML + CSS + JS)
+
+**Today's Progress**: 
+I worked on a dynamic header for the website and I started the creation of the search results page where I worked with rows and columns. Also looked into setting up a server less database with Azure. 
+
+**Thoughts:** 
+It was difficult working with JS and making the loop work, I still dont fully grasp how and why the loop works and when to use it but W3 school examples were good and I used them to make a dynamic header with buttons
+
 
