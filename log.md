@@ -224,4 +224,14 @@ I worked on a dynamic header for the website and I started the creation of the s
 **Thoughts:** 
 It was difficult working with JS and making the loop work, I still dont fully grasp how and why the loop works and when to use it but W3 school examples were good and I used them to make a dynamic header with buttons
 
+### Day 11-12: March 21-22, 2020 (MYSQL, CRUD, CSS)
+
+**Today's Progress**: 
+ have started the SQL tutorial on 
+@freeCodeCamp
+ so that I can setup a database for the website which should hopefully help me with the search engine I am trying to create!
+
+**Thoughts:** 
+C.R.U.D (Create, Read, Update, Delete).
+Difficult to find time with the kids and Abbie all in the house. But I am constantly thinking off how I can connect the searchbar with a database that can provide the results I need. I also found a place that has similar data to what I need, so if I could get a crawler on that it would be perfect!!
 
