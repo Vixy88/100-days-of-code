@@ -233,5 +233,5 @@ It was difficult working with JS and making the loop work, I still dont fully gr
 
 **Thoughts:** 
 C.R.U.D (Create, Read, Update, Delete).
-Difficult to find time with the kids and Abbie all in the house. But I am constantly thinking off how I can connect the searchbar with a database that can provide the results I need. I also found a place that has similar data to what I need, so if I could get a crawler on that it would be perfect!!
+Difficult to find time with the kids and Abbie all in the house. But I am constantly thinking off how I can connect the searchbar with a database that can provide the results I need. I also found a place that has similar data to what I need(https://surfing-waves.com), so if I could get a crawler on that it would be perfect!!
 
