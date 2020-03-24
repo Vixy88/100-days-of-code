@@ -235,3 +235,19 @@ It was difficult working with JS and making the loop work, I still dont fully gr
 C.R.U.D (Create, Read, Update, Delete).
 Difficult to find time with the kids and Abbie all in the house. But I am constantly thinking off how I can connect the searchbar with a database that can provide the results I need. I also found a place that has similar data to what I need(https://surfing-waves.com), so if I could get a crawler on that it would be perfect!!
 
+### Day 13: March 23, 2020 (CSS)
+
+**Today's Progress**: 
+Worked on the Applied Visual Design course today. I did not get to do much on the SQL side, but will dedicate at least 1 hour for tomorrow morning.
+
+**Thoughts:** 
+Difficult day where I did not get much done due to laziness and having fun with the kids :)
+
+### Day 14: March 23, 2020 (CSS)
+
+**Today's Progress**: 
+Got an hour and some done from the Database Management Basics and SQL course, learned to install mySQL and access it through the terminal plus how to change my password and setup a database in the terminal!
+
+**Thoughts:** 
+Felt good to create my first database on the command line! I am definitely going to use the popSQL editor as I like when it is visual. So will install it tomorrow and get started.
+
