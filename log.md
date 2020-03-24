@@ -243,7 +243,7 @@ Worked on the Applied Visual Design course today. I did not get to do much on th
 **Thoughts:** 
 Difficult day where I did not get much done due to laziness and having fun with the kids :)
 
-### Day 14: March 23, 2020 (CSS)
+### Day 14: March 24, 2020 (CSS)
 
 **Today's Progress**: 
 Got an hour and some done from the Database Management Basics and SQL course, learned to install mySQL and access it through the terminal plus how to change my password and setup a database in the terminal!
