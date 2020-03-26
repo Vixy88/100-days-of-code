@@ -251,3 +251,12 @@ Got an hour and some done from the Database Management Basics and SQL course, le
 **Thoughts:** 
 Felt good to create my first database on the command line! I am definitely going to use the popSQL editor as I like when it is visual. So will install it tomorrow and get started.
 
+
+### Day 15-16: March 25-26, 2020 (CSS, SQL, ERD)
+
+**Today's Progress**: 
+Today I continued my course on sql and learned how to insert values into my database I also from recommendation started creating the ERD and learning about that!
+
+**Thoughts:** 
+I feel that the SQL language is easy to understand so far and the text editor popSQL is really good to visualise it from. Ricky recommended that I start with making an ERD before I do the final database as that is the appropriate way.
+
